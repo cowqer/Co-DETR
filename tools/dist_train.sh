@@ -1,3 +1,4 @@
+#!/bin/bash
 CONFIG=$1
 GPUS=$2
 WORKDIR=$3
